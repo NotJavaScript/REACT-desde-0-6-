@@ -2,7 +2,7 @@
 
 # Proyecto 6: Optimización de Componentes y Estrategias de Despliegue
 
-Este repositorio marca la evolución del proyecto entre el quinto y el sexto bloque de formación de **React JS desde 0**. En esta fase, aunque la interfaz se mantiene constante, el trabajo se ha centrado en la "capa invisible" del desarrollo: la eficiencia del renderizado y el ciclo de vida de puesta en producción.
+Este repositorio marca la evolución del proyecto entre el quinto y el sexto bloque de formación de **React JS desde 0**. En esta fase, aunque la interfaz se mantiene constante, el trabajo se ha centrado en la "capa invisible" del desarrollo la eficiencia del renderizado y el ciclo de vida de puesta en producción.
 
 El objetivo de esta etapa es asegurar que la aplicación no solo funcione, sino que sea altamente eficiente y esté disponible para el mundo exterior.
 
