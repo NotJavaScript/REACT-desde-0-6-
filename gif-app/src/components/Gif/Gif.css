@@ -1,0 +1,15 @@
+.Gif {
+    border-radius: 6px;
+    display: flex;
+    color: #fff;
+}
+
+.Gif h4 {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.Gif img {
+    border-radius: 10px;
+
+}

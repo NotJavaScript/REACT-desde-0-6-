@@ -1,0 +1,16 @@
+button {
+    padding: 15px;
+    margin-bottom: 30px;
+    border: 2px solid black;
+    background-color: rgb(42, 42, 164);
+    color: white;
+    border-radius: 7px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button:hover {
+    transition: all 0.3s ease;
+    background-color: rgb(66, 66, 185);
+    cursor: pointer;
+    font-weight: bold;
+}

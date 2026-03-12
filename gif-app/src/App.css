@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+
+.App-content {
+  background-color: #31394b;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+h1 {
+  font-size: 25px;
+  border-bottom: 3px solid rgb(38, 87, 191);
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+/* 
+button {
+  font-size: 48px;
+} 
+* botón previamente creado para el cambio de GIFS al principio del curso.  
+*/
+
+a:not(.PaginaPrincipal) {
+  background-color: #262c3a;
+  width: 100%;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  color: #09f;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.PaginaPrincipal {
+  background-color: #195eff;
+  width: 50%;
+  margin-bottom: 15px;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 10px;
+  color: white;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+
+.PaginaPrincipal:hover {
+  transition: all 0.3s ease;
+  text-shadow: 0 0 10px white;
+  background-color: rgb(98, 122, 254)
+}
+
+a:hover:not(.PaginaPrincipal) {
+  transition: all 0.3s ease;
+  color: rgb(55, 0, 255);
+  background-color: #20242f;
+  border-radius: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+}
